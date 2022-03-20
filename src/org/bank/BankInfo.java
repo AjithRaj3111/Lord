@@ -15,5 +15,10 @@ public class BankInfo {
 		System.out.println("Deposit 9%");
 
 	}
+	
+	public void credit() {
+		System.out.println("Credit 5%");
+
+	}
 
 }
